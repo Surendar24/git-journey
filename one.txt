@@ -1,1 +1,2 @@
 one.txt file has one.txt
+updated word
